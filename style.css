@@ -1,0 +1,43 @@
+h1{
+    margin: 10px auto ;
+    width: 80px;
+    padding: 15px;
+    border: 0px solid;
+    
+}
+
+    
+body  {
+ margin: 0px;
+padding: 0px;  
+font-family: 'roboto';
+}
+.header {
+    background-color: rgb(245, 179, 179);
+    height: 80px 
+    
+    
+}
+nav ul li {
+    padding: 20px;
+    list-style-type: none;
+    padding: 10px;
+}
+nav ul li {
+color: #fff;
+letter-spacing: 0.1 rom ;
+}
+ul li a ;:hover{
+    color:hwb(237 16% 17%);
+    text-decoration:underline
+}
+.menu li{
+    float: left;
+    padding: 35px;
+}
+form {
+    padding: 30px;;
+    text-align: right;
+}
+
+    
